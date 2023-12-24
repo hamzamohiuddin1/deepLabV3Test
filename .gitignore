@@ -1,7 +1,7 @@
 # .gitignore
 
-# Ignore deeplabenv folder
 deeplabenv/
-
-# Ignore DeepLabV3Plus folder
 DeepLabV3Plus/
+wandb/
+
+
